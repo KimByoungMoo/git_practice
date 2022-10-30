@@ -1,4 +1,4 @@
 hello codestates
 
-This is a test
+Git is good
 
